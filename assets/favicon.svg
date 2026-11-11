@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="82 94 158 158" width="158" height="158">
+  <defs><clipPath id="hull"><path d="M90 144 Q160 152 232 134 Q223 159 204 168 L118 168 Q99 162 90 144 Z" transform="matrix(1 0 0 -1 0 337)"/></clipPath></defs>
+  <rect x="82" y="94" width="158" height="158" rx="34" fill="#f6f3ec"/>
+  <path d="M90 144 Q160 152 232 134 Q223 159 204 168 L118 168 Q99 162 90 144 Z" fill="#e8742a"/>
+  <path d="M94 153.5 Q160 161.5 227.5 144.5" fill="none" stroke="#2f6fb5" stroke-width="5"/>
+  <g clip-path="url(#hull)">
+    <rect x="86" y="170" width="150" height="5.2" fill="#e8742a"/>
+    <rect x="86" y="178" width="150" height="5.2" fill="#2f6fb5"/>
+    <rect x="86" y="186" width="150" height="5.2" fill="#f2a65a"/>
+    <rect x="86" y="194" width="150" height="5.2" fill="#2f6fb5"/>
+  </g>
+  <rect x="88" y="167" width="146" height="3" fill="#1d1b18"/>
+</svg>
